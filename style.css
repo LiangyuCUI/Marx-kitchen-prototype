@@ -1,0 +1,30 @@
+
+a {
+    color: white !important;
+    font-weight: bold;
+  }
+
+body{
+    background-color:#ece1d5;
+}
+
+.leftpart{
+    margin-left: 120px;
+    margin-top: 120px;
+}
+.carousel {
+    width:640px;
+    height:360px;
+    float: right;
+  }
+  .carousel-inner > .item {
+    height: 360px;
+ }
+
+ .carousel img {
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    max-width: none;
+    height: 80vh;
+  }
